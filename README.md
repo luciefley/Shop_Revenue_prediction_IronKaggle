@@ -1,16 +1,16 @@
 # Shop_Revenue_prediction_IronKaggle
 Machine Learning exercise 
 
-##ABOUT
-
-Group project made in class :[B.Pardelhas](https://github.com/bmpardelhas), [Luciefley](https://github.com/luciefley) <br>
+## ABOUT
+The objective is to predict the revenue of shops.
+Group project made in class : [B.Pardelhas](https://github.com/bmpardelhas), [Luciefley](https://github.com/luciefley) <br>
 5 hours to deliver the results
 
-##DATA 
-Dataset was given during class.
+## DATA 
+Dataset was given during class. (640840 rows X9 columns)
 See Data_description.txt 
 
-## Main Steps
+## MAIN STEPS
 
 - Dataset exploration
 - Data cleaning
@@ -19,7 +19,7 @@ See Data_description.txt
 - Improving Predictions, Feature engineering 
 - Delivering the results
 
-## Techniques and tools
+## TECHNIQUES AND TOOLS
 
 - Data visualization : correlation matrix, heatmap, pairplots - [Matplotlib, Seaborn]
 - Pycaret
@@ -27,5 +27,10 @@ See Data_description.txt
 
 <br>![Screenshot](Screenshot_pycaret.png)<br>
 
-##RESULTS
+## RESULTS
 
+<br>![Screenshot](Results.jpg)<br>
+and output 
+<br>![Screenshot](output.jpg)<br>
+## IMPROVEMENTS
+To get better predictions, we should have trained the model on opening days only.
